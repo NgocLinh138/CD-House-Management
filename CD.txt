@@ -1,0 +1,4 @@
+game,audio,ninja,10000.0,CD001,2022
+movie,video,waiting,2300.0,CD004,2022
+music,video,sisi,23330.0,CD002,2000
+movie,video,hello,13000.0,CD003,2021
